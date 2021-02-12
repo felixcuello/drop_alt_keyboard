@@ -1,0 +1,1 @@
+./mdloader_mac --first --download $1 --restart
